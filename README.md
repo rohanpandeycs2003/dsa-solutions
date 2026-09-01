@@ -9,6 +9,7 @@ Solutions organized by DSA category. Auto-generated and maintained by DSA Auto P
 | Lowest Common Ancestor of a Binary Tree | Medium | LeetCode | [Trees/LowestCommonAncestorOfABinaryTree.java](Trees/LowestCommonAncestorOfABinaryTree.java) |
 | Same Tree | Easy | LeetCode | [Trees/SameTree.java](Trees/SameTree.java) |
 | Level of a Node in Binary Tree | Easy | GeeksforGeeks | [Trees/LevelOfANodeInBinaryTree.java](Trees/LevelOfANodeInBinaryTree.java) |
+| Operations on Tree | Medium | LeetCode | [Trees/OperationsOnTree.java](Trees/OperationsOnTree.java) |
 
 ## Arrays
 
