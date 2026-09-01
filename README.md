@@ -11,6 +11,12 @@ Solutions organized by DSA category. Auto-generated and maintained by DSA Auto P
 | Level of a Node in Binary Tree | Easy | GeeksforGeeks | [Trees/LevelOfANodeInBinaryTree.java](Trees/LevelOfANodeInBinaryTree.java) |
 | Operations on Tree | Medium | LeetCode | [Trees/OperationsOnTree.java](Trees/OperationsOnTree.java) |
 
+## LinkedList
+
+| Problem | Difficulty | Platform | Link |
+|---|---|---|---|
+| Intersection of Two Linked Lists | Easy | LeetCode | [LinkedList/IntersectionOfTwoLinkedLists.java](LinkedList/IntersectionOfTwoLinkedLists.java) |
+
 ## Arrays
 
 | Problem | Difficulty | Platform | Link |
