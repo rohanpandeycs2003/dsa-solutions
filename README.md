@@ -7,6 +7,7 @@ Solutions organized by DSA category. Auto-generated and maintained by DSA Auto P
 | Problem | Difficulty | Platform | Link |
 |---|---|---|---|
 | Lowest Common Ancestor of a Binary Tree | Medium | LeetCode | [Trees/LowestCommonAncestorOfABinaryTree.java](Trees/LowestCommonAncestorOfABinaryTree.java) |
+| Same Tree | Easy | LeetCode | [Trees/SameTree.java](Trees/SameTree.java) |
 
 ## Arrays
 
