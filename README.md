@@ -17,6 +17,7 @@ Solutions organized by DSA category. Auto-generated and maintained by DSA Auto P
 |---|---|---|---|
 | Intersection of Two Linked Lists | Easy | LeetCode | [LinkedList/IntersectionOfTwoLinkedLists.java](LinkedList/IntersectionOfTwoLinkedLists.java) |
 | Reverse a Linked List | Easy | GeeksforGeeks | [LinkedList/ReverseALinkedList.java](LinkedList/ReverseALinkedList.java) |
+| Middle of the Linked List | Easy | LeetCode | [LinkedList/MiddleOfTheLinkedList.java](LinkedList/MiddleOfTheLinkedList.java) |
 
 ## Arrays
 
