@@ -20,6 +20,7 @@ Solutions organized by DSA category. Auto-generated and maintained by DSA Auto P
 | Middle of the Linked List | Easy | LeetCode | [LinkedList/MiddleOfTheLinkedList.java](LinkedList/MiddleOfTheLinkedList.java) |
 | Palindrome Linked List | Easy | LeetCode | [LinkedList/PalindromeLinkedList.java](LinkedList/PalindromeLinkedList.java) |
 | Remove Duplicates from Sorted List | Easy | LeetCode | [LinkedList/RemoveDuplicatesFromSortedList.java](LinkedList/RemoveDuplicatesFromSortedList.java) |
+| Merge Two Sorted Lists | Easy | LeetCode | [LinkedList/MergeTwoSortedLists.java](LinkedList/MergeTwoSortedLists.java) |
 
 ## Arrays
 
