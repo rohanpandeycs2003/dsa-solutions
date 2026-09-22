@@ -21,6 +21,7 @@ Solutions organized by DSA category. Auto-generated and maintained by DSA Auto P
 | Palindrome Linked List | Easy | LeetCode | [LinkedList/PalindromeLinkedList.java](LinkedList/PalindromeLinkedList.java) |
 | Remove Duplicates from Sorted List | Easy | LeetCode | [LinkedList/RemoveDuplicatesFromSortedList.java](LinkedList/RemoveDuplicatesFromSortedList.java) |
 | Merge Two Sorted Lists | Easy | LeetCode | [LinkedList/MergeTwoSortedLists.java](LinkedList/MergeTwoSortedLists.java) |
+| Odd Even Linked List | Medium | LeetCode | [LinkedList/OddEvenLinkedList.java](LinkedList/OddEvenLinkedList.java) |
 
 ## Arrays
 
