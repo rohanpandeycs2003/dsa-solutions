@@ -22,6 +22,7 @@ Solutions organized by DSA category. Auto-generated and maintained by DSA Auto P
 | Remove Duplicates from Sorted List | Easy | LeetCode | [LinkedList/RemoveDuplicatesFromSortedList.java](LinkedList/RemoveDuplicatesFromSortedList.java) |
 | Merge Two Sorted Lists | Easy | LeetCode | [LinkedList/MergeTwoSortedLists.java](LinkedList/MergeTwoSortedLists.java) |
 | Odd Even Linked List | Medium | LeetCode | [LinkedList/OddEvenLinkedList.java](LinkedList/OddEvenLinkedList.java) |
+| Merge Nodes in Between Zeros | Medium | LeetCode | [LinkedList/MergeNodesInBetweenZeros.java](LinkedList/MergeNodesInBetweenZeros.java) |
 
 ## Arrays
 
