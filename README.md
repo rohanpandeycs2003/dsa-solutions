@@ -23,6 +23,7 @@ Solutions organized by DSA category. Auto-generated and maintained by DSA Auto P
 | Merge Two Sorted Lists | Easy | LeetCode | [LinkedList/MergeTwoSortedLists.java](LinkedList/MergeTwoSortedLists.java) |
 | Odd Even Linked List | Medium | LeetCode | [LinkedList/OddEvenLinkedList.java](LinkedList/OddEvenLinkedList.java) |
 | Merge Nodes in Between Zeros | Medium | LeetCode | [LinkedList/MergeNodesInBetweenZeros.java](LinkedList/MergeNodesInBetweenZeros.java) |
+| Intersection of Two Linked Lists (attempt 2) | Easy | LeetCode | [LinkedList/IntersectionOfTwoLinkedLists_v2.java](LinkedList/IntersectionOfTwoLinkedLists_v2.java) |
 
 ## Arrays
 
