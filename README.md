@@ -25,6 +25,7 @@ Solutions organized by DSA category. Auto-generated and maintained by DSA Auto P
 | Merge Nodes in Between Zeros | Medium | LeetCode | [LinkedList/MergeNodesInBetweenZeros.java](LinkedList/MergeNodesInBetweenZeros.java) |
 | Intersection of Two Linked Lists (attempt 2) | Easy | LeetCode | [LinkedList/IntersectionOfTwoLinkedLists_v2.java](LinkedList/IntersectionOfTwoLinkedLists_v2.java) |
 | Rotate List | Medium | LeetCode | [LinkedList/RotateList.java](LinkedList/RotateList.java) |
+| Merge Nodes in Between Zeros (attempt 2) | Medium | LeetCode | [LinkedList/MergeNodesInBetweenZeros_v2.java](LinkedList/MergeNodesInBetweenZeros_v2.java) |
 
 ## Arrays
 
